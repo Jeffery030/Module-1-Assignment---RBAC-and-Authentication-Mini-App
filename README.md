@@ -1,0 +1,1 @@
+This app demonstrates the Confidentiality part of the CIA triad. By restricting access based on user roles, it ensures that only admins can see sensitive options like Users and Camera Settings, while regular users can only see their own dashboard. This prevents unauthorized access to protected information.
