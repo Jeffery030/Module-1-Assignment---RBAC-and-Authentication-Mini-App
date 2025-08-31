@@ -20,7 +20,3 @@ if choice == "1": admin_panel()
 elif choice == "2": user_dashboard()
 else: print("Invalid choice.")
 
-"""
-Shows CIA triad: Confidentiality.
-Only the right role can access its area.
-"""
